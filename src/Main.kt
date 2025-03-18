@@ -2,18 +2,16 @@
  * =====================================================================
  * Programming Project for NCEA Level 2, Standard 91896
  * ---------------------------------------------------------------------
- * Project Name:   PROJECT NAME HERE
- * Project Author: PROJECT AUTHOR HERE
- * GitHub Repo:    GITHUB REPO URL HERE
+ * Project Name:   Old golf
+ * Project Author: Mona Limrungroj
+ * GitHub Repo:    https://github.com/waimea-mlimrungroj/level-2-programming-assesment
  * ---------------------------------------------------------------------
  * Notes:
  * PROJECT NOTES HERE
+ * Old golf is a two player game that allow players to 'roll' multiple dice to gain points / beat the other player based on the dice rolled
  * =====================================================================
  */
-
-
 
 fun main() {
     println("Hello World!")
 }
-
