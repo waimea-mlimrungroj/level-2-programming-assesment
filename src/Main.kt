@@ -2,7 +2,7 @@
  * =====================================================================
  * Programming Project for NCEA Level 2, Standard 91896
  * ---------------------------------------------------------------------
- * Project Name:   Old golf
+ * Project Name:   Jungle rush
  * Project Author: Mona Limrungroj
  * GitHub Repo:    https://github.com/waimea-mlimrungroj/level-2-programming-assesment
  * ---------------------------------------------------------------------
@@ -13,5 +13,6 @@
  */
 
 fun main() {
-    println("Hello World!")
+    println("Old gold game")
+//
 }
